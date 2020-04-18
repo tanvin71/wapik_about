@@ -1,0 +1,245 @@
+
+@media (max-width: 1199px) {
+    .get {
+        margin-bottom: 5px;
+    }
+}
+
+
+
+@media (max-width: 991px) {
+    .get {
+        margin-bottom: 5px;
+    }
+    .header li a {
+        text-align: left;
+        display: table;
+    }
+    .details i{
+        padding: 0 0;
+        
+    }
+}
+
+
+@media (max-width: 767px) {
+    .navbar-brand {
+        font-size: 22px;
+    }
+    .header li a {
+        text-align: left;
+        display: table;
+    }
+    .get {
+        margin-bottom: 5px;
+    }
+    .welcome {
+        margin-top:100px; 
+    }
+    .header {
+        min-height: 70vh;
+    }
+    .header span {
+        margin-top: 5px;
+    }
+    .a-2 {
+        font-size: 14px;
+    }
+    .welcome h2 {
+        font-size: 22px;
+    }
+    .welcome p {
+        font-size: 13px;
+    
+    } 
+    .welcome a {
+        font-size: 13px;
+    }
+    .meet {
+        padding: 30px 0;
+    }
+    .our-1 p {
+        font-size: 12px;
+        margin-top: 20px;
+    }
+    .three-card {
+        margin: 30px 0;
+    }
+    .call-to {
+        min-height: 180px;
+        
+    }
+    .call-to h2 {
+        font-size: 22px;
+    }
+    .call-to p {
+        font-size: 12px; 
+    }
+    .call-to a {
+        font-size: 11px;
+    }
+    .details {
+        margin-top: 30px;
+    }
+    .details h3{
+        font-size: 14px;
+    }
+    .details .fst{
+        font-size: 14px;
+    }
+    .details h4{
+        font-size: 12px;
+    }
+    .details p {
+        font-size: 12px;
+        
+   }
+   .details a{
+    font-size: 12px;
+    
+   }
+   .details i{
+    font-size: 13px;
+    padding: 0 0;
+    margin-left: 2px;
+    
+   }
+
+}
+
+
+@media (max-width: 575px) {
+    .navbar-brand {
+        font-size: 20px;
+    }
+    .header li a {
+        text-align: left;
+        display: table;
+    }
+    .get {
+        margin-bottom: 5px;
+    }
+    .welcome {
+        margin-top:100px; 
+    }
+    .header {
+        min-height: 60vh;
+    }
+    .header span {
+        margin-top: 5px;
+    }
+    .a-2 {
+        font-size: 14px;
+    }
+    .welcome h2 {
+        font-size: 18px;
+    }
+    .welcome p {
+        font-size: 12px;
+    
+    } 
+    .welcome a {
+        font-size: 12px;
+    }
+    .feature {
+        padding: 30px 0;
+    }
+    .our-feature h3 {
+        font-size: 25px;
+        
+    }
+    .meet {
+        padding: 20px 0;
+    }
+    .our-1 p {
+        font-size: 11px;
+        margin-top: 20px;
+    }
+    .three-card {
+        margin: 30px 0;
+    }
+    .three-card {
+        margin: 10px 0;
+    }
+    .call {
+        text-align :center;
+    }
+    .call-1 {
+        text-align :center;
+    }
+    .call-to {
+        min-height: 150px;
+        
+    }
+    .call-to h2 {
+        font-size: 20px;
+    }
+    .call-to p {
+        font-size: 11px; 
+    }
+    .call-to a {
+        font-size: 10px;
+    }
+    .details {
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    .details-1 {
+        margin-bottom: 5px;
+    }
+    .details-2 {
+        margin-bottom: 5px;
+    }
+    .details h3{
+        font-size: 13px;
+    }
+    .details .fst{
+        font-size: 13px;
+    }
+    .details h4{
+        font-size: 13px;
+    }
+    .details p {
+        font-size: 11px;
+        
+   }
+   .details a{
+    font-size: 11px;
+    
+   }
+   .details i{
+    font-size: 13px;
+    padding: 0 0;
+    margin-left: 10px;
+    
+   }
+   hr {
+    margin-top: 30px;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 10px;
+    
+   }
+   footer p {
+    font-size: 13px;
+    }
+   footer .navbar a i {
+    font-size: 14px;
+    height: 25px;
+    width: 25px;
+    padding: 4px;
+    
+    }
+    .fg {
+        text-align: center;
+    }
+    .fg-2 {
+        text-align: center;
+    }
+
+        
+
+
+    
+    
+}
